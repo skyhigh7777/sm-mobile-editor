@@ -1,0 +1,10 @@
+{
+  "name": "sm-mobile-editor",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Mobile .sm chart editor for Etterna / StepMania",
+  "scripts": {
+    "test": "node test/test-sm.mjs"
+  }
+}
